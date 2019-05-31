@@ -1,6 +1,8 @@
 :root {
   --btn-primary-color: hsl(322, 100%, 66%);
   --btn-secondary-color: white;
+  --dark-text: hsl(192, 100%, 9%);
+  --gray-text: hsl(208, 11%, 55%);
 }
 
 /* Mobile */
@@ -29,6 +31,7 @@ h2 {
   margin: 0 auto;
   text-align: center;
   margin-bottom: 55px;
+  color: var(--dark-text);
 }
 
 .display {
