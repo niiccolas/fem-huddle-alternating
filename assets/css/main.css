@@ -52,9 +52,16 @@ h2 {
     url(../img/bg-hero-mobile.svg),
     100% 97%,
     no-repeat;
-  background-size: 100% 97%;
+  background-size: 100% 95%;
   background-repeat: no-repeat;
-  height: 1440px;
+  height: 100%;
+}
+
+.img-mockup {
+  width: 590px;
+  height: 420px;
+  margin: 110px auto 70px;
+  display: block;
 }
 
 .logo {
