@@ -42,22 +42,23 @@ h2 {
 }
 
 .hero {
-  background:
-    linear-gradient(rgba(0, 200, 255, 0.10),
-                    rgba(0, 200, 255, 0.10)),
-    url(../img/bg-hero-mobile.svg),
-    100% 97%,
-    no-repeat;
-  background-size: 100% 95%;
-  background-repeat: no-repeat;
   height: 100%;
+  padding-bottom: 70px;
+
+  background-image: url(../img/bg-hero-mobile.svg);
+  background-size: 750px 1400px;
+  background-repeat: no-repeat;
+  background-color:rgba(0, 200, 255, 0.08);
+  background-position: center -15px;
 }
 
 .img-mockup {
+  display: block;
   width: 590px;
   height: 420px;
-  margin: 110px auto 70px;
-  display: block;
+  margin-top: 110px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .logo {
