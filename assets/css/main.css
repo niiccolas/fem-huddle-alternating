@@ -135,3 +135,9 @@ h2 {
 .content-card .btn {
   margin-bottom: 80px;
 }
+
+.call-to-action .display {
+  width: 600px;
+  font-size: 36px;
+  padding-top: 100px;
+}
