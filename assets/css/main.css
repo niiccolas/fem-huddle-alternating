@@ -152,3 +152,12 @@ footer a {
   text-decoration: none;
   color: #fff;
 }
+
+.logo-white {
+  /* border: 1px solid red; */
+  /* filter: invert(100%) sepia(77%) saturate(131%) hue-rotate(49deg) brightness(115%) contrast(101%); */
+  /* fill: red; */
+  width: 330px;
+  height: 50px;
+  filter: brightness(0) invert(1);
+}
