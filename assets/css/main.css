@@ -141,3 +141,14 @@ h2 {
   font-size: 36px;
   padding-top: 100px;
 }
+
+/* Footer */
+footer {
+  background: var(--dark-text);
+  color: #fff;
+}
+
+footer a {
+  text-decoration: none;
+  color: #fff;
+}
