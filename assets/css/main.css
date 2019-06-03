@@ -227,8 +227,21 @@ footer a {
 }
 
 /* Footer's Legalese */
-small p {
+small p:first-child {
   text-align: center;
   font-size: 18px;
   margin-top: 2rem;
+}
+
+/* Challenge Credits */
+#challenge-credits, a {
+  text-align: center;
+  font-size: 18px;
+  line-height: 22px;
+  margin-bottom: 0;
+  padding-bottom: 35px;
+}
+
+hr {
+  margin: 30px 50px;
 }
