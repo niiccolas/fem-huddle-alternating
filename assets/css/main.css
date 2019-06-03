@@ -225,3 +225,10 @@ footer a {
 .social-icon i.fab {
   margin: 0;
 }
+
+/* Footer's Legalese */
+small p {
+  text-align: center;
+  font-size: 18px;
+  margin-top: 2rem;
+}
